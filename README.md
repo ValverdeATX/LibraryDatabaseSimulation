@@ -1,7 +1,7 @@
 # LibraryDatabaseSimulation
 Project Name: Library Database
 
-Authors: Theo K. Valverde, Denny Dao, Seth McKeehan
+Authors: T. K. Valverde, Denny Dao, Seth McKeehan
 
 Texas State University
 
